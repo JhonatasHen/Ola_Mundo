@@ -1,2 +1,3 @@
-# Ola_Mundo
+# Lógica de rogramação em C:
+  Exercícios:
  
